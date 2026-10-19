@@ -1,4 +1,4 @@
-# ☁️ Project 5: AI Inventory Tracker on Azure
+# ☁️ AI Inventory Tracker on Azure
 
 ![Terraform](https://img.shields.io/badge/Terraform-Azure%20Provider-7B42BC?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Service%20Bus%20%7C%20Functions%20%7C%20SQL%20%7C%20OpenAI-0078D4?logo=microsoftazure&logoColor=white)
